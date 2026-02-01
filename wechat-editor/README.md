@@ -1,6 +1,6 @@
 # 微信 Markdown 编辑器 (wechat-editor)
 
-> 专为微信公众号创作者打造的极致像素风 Markdown 编辑器，内置 Google Gemini AI 强大助手。
+专为微信公众号创作者打造的极致像素风 Markdown 编辑器，内置 Google Gemini AI 强大助手。
 
 ## 简介
 
@@ -25,5 +25,3 @@
 - **默认端口**: `80` (容器内)
 - **开发者**: [Panda-995](https://github.com/panda-995)
 
----
-*本应用源由 FnDepot 提供。*
