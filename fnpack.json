@@ -12,8 +12,9 @@
     "history": {
       "1.1.0": "集成AI功能，优化编辑体验",
       "1.0.0": "初始版本发布"
-    },
- "wechat-editor": {
+    }
+  },
+  "wechat-editor": {
     "display_name": "微信 Markdown 编辑器",
     "desc": "专为微信公众号创作者打造的极致像素风 Markdown 编辑器，内置 Google Gemini AI 强大助手",
     "labels": "工具,编辑器,Markdown,AI",
@@ -24,7 +25,7 @@
     "install_type": "存储空间",
     "size": "50",
     "history": {
-      "v1.1.0": "初始发布，基于 ghcr.io/panda-995/wechat-editor:v1.1"
+      "1.1.0": "初始发布，基于 ghcr.io/panda-995/wechat-editor:v1.1"
     }
   }
 }
