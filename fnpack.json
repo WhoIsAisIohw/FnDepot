@@ -1,0 +1,17 @@
+{
+  "wechateditor": {
+    "display_name": "微信公众号编辑器",
+    "desc": "专为微信公众号创作者打造的极致像素风Markdown编辑器，内置Google Gemini AI强大助手。",
+    "labels": "工具,编辑器,Markdown,AI,微信",
+    "version": "1.1.0",
+    "author": "Panda-995",
+    "author_url": "https://github.com/panda-995/wechat-editor",
+    "bug_report_url": "https://github.com/panda-995/wechat-editor/issues",
+    "install_type": "系统空间",
+    "size": "3",
+    "history": {
+      "1.1.0": "集成AI功能，优化编辑体验",
+      "1.0.0": "初始版本发布"
+    }
+  }
+}
